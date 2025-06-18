@@ -1,4 +1,4 @@
-FROM golang:1.18
+FROM golang:1.25rc1
 
 COPY src /go/src
 
